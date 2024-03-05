@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+📫 Connect with me:
 [LinkedIn](www.linkedin.com/in/kleda-gashi-b3145a22a)
+[Email](kledagashi1@gmail.com)
