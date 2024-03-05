@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning Computer and Software Engineering at University of Pristina "Hasan Prishtina"
 📫 Connect with me:
 [LinkedIn](www.linkedin.com/in/kleda-gashi-b3145a22a)
 [Email](kledagashi1@gmail.com)
