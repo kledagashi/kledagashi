@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kleda
+### Hi there, I'm Kleda :) 
 
 <!--
 **kledagashi/kledagashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently studying Computer and Software Engineering at University of Pristina "Hasan Prishtina".
+🌱 I’m a Junior Network Engineer focused on networking, infrastructure, cloud technologies, DevOps, and technical support. ".
+
 <br>
 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/kleda-gashi-b3145a22a/) 
