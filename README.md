@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## A Little About Me ;)
-I’m a **Junior Network Engineer** focused on networking, infrastructure, cloud technologies, DevOps, and technical support.".
-'I keep packets moving and restart MikroTik routers so users don't have to >_< '
+I’m a **Junior Network Engineer** focused on networking, infrastructure, cloud technologies, DevOps, and technical support. I keep packets moving and restart MikroTik routers so users don't have to >_< 
 
     Junior Network Engineer at AlbiSmart GmbH & Normann Engineering 
     Experienced in networking, server administration, monitoring, and troubleshooting 
